@@ -3,3 +3,4 @@ PhoneNo : 9788776437
 Address : 3/124 Pillaiyar Kovil Street Madathur, Tenkasi-627816
 Role    : User Interface Developer
 Exp     : 1.5 Years
+Qualifi : Bachelor of Engineering
