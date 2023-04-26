@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 EmailID       : suryagunasekaran24@gmail.com
 PhoneNo       : 9788776437
 Address       : 3/124 Pillaiyar Kovil Street Madathur, Tenkasi-627816
@@ -5,3 +6,11 @@ Role          : User Interface Developer
 Experience    : 1.5 Years
 Qualification : Bachelor of Engineering
 Bike	      : FZS V3.0
+=======
+EmailID : suryagunasekaran24@gmail.com
+PhoneNo : 9788776437
+Address : 3/124 Pillaiyar Kovil Street Madathur, Tenkasi-627816
+Role    : User Interface Developer
+Exp     : 1.5 Years
+Qualifi : Bachelor of Engineering
+>>>>>>> parent of bccc4c9... Alignment changed
