@@ -4,3 +4,4 @@ Address       : 3/124 Pillaiyar Kovil Street Madathur, Tenkasi-627816
 Role          : User Interface Developer
 Experience    : 1.5 Years
 Qualification : Bachelor of Engineering
+Bike	      : FZS V3.0
